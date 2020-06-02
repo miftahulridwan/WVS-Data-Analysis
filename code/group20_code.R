@@ -56,7 +56,7 @@ pm                      <- colMeans(is.na(dat1))
 cm
 pm
 
-
+ 
 ### --- 1.3 Check for Univariate Outliers -------------------------------------------------------------------- ###
 # Detect Outliers using Boxplot Outliers
 Outliers                <- lapply(dat1[ , c("V10", "V11","V23", "V58", "V59", "V242","V248")], FUN = bpOutliers)
