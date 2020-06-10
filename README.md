@@ -1,5 +1,5 @@
 # WVS Data Analysis
-This project is an assignment for Statistics and Methodology course in Master of Data Science and Society program, Tilburg University. In this project, we perform numerous data wrangling task as well as statistical inference and prediction on Wave 6 of the World Values Survey data. The data could be downloaded directly from [WVS website](http://www.worldvaluessurvey.org/WVSDocumentationWV6.jsp "Wave 6 WVS data"). We include the preporcessed data in [data](https://github.com/miftahulridwan/WVS-Data-Analysis/tree/master/data "data directory") directory.
+This project is an assignment for Statistics and Methodology course in Master of Science in Data Science and Society program, Tilburg University. In this project, we perform numerous data wrangling task as well as statistical inference and prediction on Wave 6 of the World Values Survey data. The data could be downloaded directly from [WVS website](http://www.worldvaluessurvey.org/WVSDocumentationWV6.jsp "Wave 6 WVS data"). We include the preporcessed data in [data](https://github.com/miftahulridwan/WVS-Data-Analysis/tree/master/data "data directory") directory.
 
 ## Table of Directory
 
